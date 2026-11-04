@@ -1,6 +1,6 @@
 # Hi, I'm Umesh 👋
 
-Senior Analytics Professional with Banking, Retail, Manufacturing domain exposure along with SAS, SQL, Python,Data Analysis, Business Intelligence, Stakeholder Management and data modernization techniques exposure.
+Senior Analytics Professional with Banking, Retail, Manufacturing domain exposure along with SAS, SQL, Python, Data Analysis, Business Intelligence, Stakeholder Management and data modernization techniques exposure.
 
 ## Professional Background
 
