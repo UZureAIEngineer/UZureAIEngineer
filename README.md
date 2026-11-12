@@ -17,13 +17,13 @@ Senior Analytics Professional with Banking, Retail, Manufacturing domain exposur
 
 ## Current Focus
 
-- Python Upskilling
-- Microsoft Azure
-- Azure AI Foundry
-- Generative AI
-- AI Agents
-- RAG Applications
-- Cloud Technologies
+-  Risk Analytics Platforms
+-  Retail & FMCG Analytics
+-  Python Modernization
+-  Azure AI & GenAI
+-  Agentic AI Solutions
+-  RAG Applications
+- 
 
 ## 🏦 Featured Project
 
