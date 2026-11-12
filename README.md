@@ -98,15 +98,17 @@ Comprehensive retail analytics platform covering:
 
 To combine deep domain expertise in Banking, Retail and Manufacturing with modern AI, Analytics and Cloud technologies to build scalable data\-driven business solutions.
 
+
 ## GitHub Portfolio Roadmap
 
-✅ Banking Analytics Platform
 
-✅ Retail & FMCG Analytics Platform
+🚧 Banking Analytics Platform
+🚧 Retail & FMCG Analytics Platform
 
-⏳ E\-Commerce Analytics Platform
-
+⏳ E-Commerce Analytics Platform
 ⏳ EV Manufacturing Analytics Platform
-
 ⏳ Azure AI Solution Accelerators
+
+
+
 
