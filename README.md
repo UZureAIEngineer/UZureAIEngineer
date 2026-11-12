@@ -23,7 +23,7 @@ Senior Analytics Professional with Banking, Retail, Manufacturing domain exposur
 -  Azure AI & GenAI
 -  Agentic AI Solutions
 -  RAG Applications
-- 
+
 
 ## 🏦 Featured Project
 
