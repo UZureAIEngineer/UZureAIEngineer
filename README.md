@@ -4,14 +4,16 @@ Senior Analytics Professional with Banking, Retail, Manufacturing domain exposur
 
 ## Professional Background
 
-- Banking Analytics
-- Credit Risk Analytics
-- Retail Analytics
-- Manufacturing Analytics
-- SAS Programming
-- SQL Development
-- Business Consulting
-- Business Intelligence & Reporting
+-  Banking & Risk Analytics
+
+-  Retail & FMCG Analytics
+
+-  Manufacturing Analytics
+  
+-  SAS & Python Development
+  
+-  Business Intelligence & Reporting
+
 
 ## Current Focus
 
