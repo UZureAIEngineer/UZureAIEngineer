@@ -24,6 +24,7 @@ Senior Analytics Professional with Banking, Retail, Manufacturing domain exposur
 -  Agentic AI Solutions
 -  RAG Applications
 
+---
 
 ## 🏦 Featured Project
 
