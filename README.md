@@ -103,11 +103,17 @@ To combine deep domain expertise in Banking, Retail and Manufacturing with moder
 
 
 🚧 Banking Analytics Platform
+
 🚧 Retail & FMCG Analytics Platform
 
+
 ⏳ E-Commerce Analytics Platform
+
 ⏳ EV Manufacturing Analytics Platform
+
 ⏳ Azure AI Solution Accelerators
+
+
 
 
 
