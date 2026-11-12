@@ -1,108 +1,112 @@
-# Hi, I'm Umesh 👋
+# Hi, I'm Umesh Zure 👋
 
-Senior Analytics Professional with Banking, Retail, Manufacturing domain exposure along with SAS, SQL, Python, Data Analysis, Business Intelligence, Stakeholder Management and data modernization techniques exposure.
+Senior Analytics Professional with experience across Banking Risk Analytics, Retail & FMCG Analytics, Manufacturing Analytics, SAS Development, Python Modernization, Business Intelligence and AI\-powered Analytics Solutions.
 
-## Professional Background
+## Core Domain Expertise
 
--  Banking & Risk Analytics
+🏦 Banking & Risk Analytics
 
--  Retail & FMCG Analytics
-
--  Manufacturing Analytics
-  
--  SAS & Python Development
-  
--  Business Intelligence & Reporting
-
-
-## Current Focus
-
--  Risk Analytics Platforms
--  Retail & FMCG Analytics
--  Python Modernization
--  Azure AI & GenAI
--  Agentic AI Solutions
--  RAG Applications
-
----
-
-## 🏦 Featured Project
-
-### Banking Stress Testing Framework
-
-An end-to-end credit risk stress testing solution built using SAS to assess portfolio risk under multiple macroeconomic stress scenarios.
-
-### Components Completed
-
-✅ Input Validation
-
-✅ Data Preparation
-
-✅ Risk Segmentation
-
-✅ Scenario Creation
-
-✅ Scenario Application
-
-✅ PD Stress Impact
-
-✅ LGD Stress Impact
-
-✅ ECL Calculation
-
-✅ Portfolio Stress Reporting
-
-### Risk Models Implemented
-
-- Probability of Default (PD)
-- Loss Given Default (LGD)
-- Exposure at Default (EAD)
+- Credit Risk Analytics
+- Stress Testing
+- Risk & Regulatory Reporting
+- Model Development & Validation
+- Portfolio Analytics
 - Expected Credit Loss (ECL)
 
-### Technology Stack
+🛒 Retail & FMCG Analytics
+
+- Customer Analytics
+- Retail Performance Analytics
+- Pricing Analytics
+- Promotion Effectiveness
+- Category Analytics
+- Demand Forecasting
+- Omnichannel Analytics
+
+🏭 Manufacturing Analytics
+
+- Industrial Analytics
+- Operational Reporting
+- Process Analytics
+- Manufacturing Performance Monitoring
+
+## Technology Expertise
 
 - SAS
-- Credit Risk Analytics
-- Banking Stress Testing
+- Python
+- SQL
+- Power BI
+- Git & GitHub
+- Azure
+- Azure AI Foundry
+- Generative AI
+- Agentic AI
+- Retrieval\-Augmented Generation (RAG)
+
+## Featured GitHub Platforms
+
+### V1 – Traditional Banking Stress Testing Framework
+
+Enterprise\-style SAS Stress Testing Platform covering:
+
+- Portfolio Preparation
 - Risk Segmentation
-- ECL Modelling
+- Scenario Creation
+- PD Modelling
+- LGD Modelling
+- EAD Calculations
+- ECL Analytics
+- Regulatory Reporting
 
-### Current Roadmap
+### V3 – SAS to Python Migration Framework
 
-✅ Phase I - Input Validation
+Modernized implementation of traditional banking analytics processes using Python.
 
-✅ Phase II - Data Preparation
+### V5 – Risk & Regulatory Reporting Framework
 
-✅ Phase III - Scenario Creation
+End\-to\-end reporting platform supporting risk analytics, regulatory reporting and executive dashboards.
 
-✅ Phase IV - Scenario Application
+### V6 – Statistical Risk Modelling Framework
 
-✅ Phase V - PD Stress Impact
+Advanced statistical modelling platform covering machine learning, scorecards, validation and model governance concepts.
 
-✅ Phase VI - LGD Stress Impact
+### Retail & FMCG Analytics Platform
 
-✅ Phase VII - ECL Calculation
+Comprehensive retail analytics platform covering:
 
-✅ Phase VIII - Portfolio Stress Reporting
+- Customer Segmentation
+- Customer Churn Analytics
+- Demand Forecasting
+- Pricing Analytics
+- Promotion Analytics
+- Category Analytics
+- Omnichannel Analytics
+- AI\-powered Retail Insights
 
-✅ Phase IX - Power BI Dashboard
+## Current Focus Areas
 
-⏳ Phase X - SQL Migration
+- Enterprise Python Development
+- SAS Modernization
+- Risk Analytics Platforms
+- Retail & FMCG Analytics
+- Azure AI Solutions
+- Generative AI Applications
+- Agentic AI Systems
+- RAG Architectures
 
-✅ Phase XI - Python Migration
+## Professional Mission
 
-⏳ Phase XII - Azure AI Extension
+To combine deep domain expertise in Banking, Retail and Manufacturing with modern AI, Analytics and Cloud technologies to build scalable data\-driven business solutions.
 
-## Upcoming Projects
+## GitHub Portfolio Roadmap
 
-🚀 Azure AI Document Intelligence
+✅ Banking Analytics Platform
 
-🚀 Azure AI Chatbot
+✅ Retail & FMCG Analytics Platform
 
-🚀 RAG Application using Azure AI Search
+⏳ E\-Commerce Analytics Platform
 
-🚀 AI-Powered Banking Analytics Solutions
+⏳ EV Manufacturing Analytics Platform
 
-## Goal
+⏳ Azure AI Solution Accelerators
 
-To evolve from traditional analytics into Azure AI and Generative AI solution development while leveraging domain expertise in BFSI, Retail, and Manufacturing.
